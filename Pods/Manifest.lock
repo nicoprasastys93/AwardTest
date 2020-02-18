@@ -1,0 +1,31 @@
+PODS:
+  - BEMCheckBox (1.4.1)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SideMenu (6.4.7)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - BEMCheckBox
+  - SDWebImage
+  - SideMenu (~> 6.0)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BEMCheckBox
+    - SideMenu
+  trunk:
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SideMenu: 928a015669c3afc201e1fe3a87f1b0bc8993a664
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 82b395541da241a5932f576c1f989f036766cd52
+
+COCOAPODS: 1.8.4
